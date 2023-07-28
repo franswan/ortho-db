@@ -72,8 +72,7 @@ To get started with ortho-db, follow these steps:
 6. Engage with the community, address feedback, and collaborate on further enhancements.
     
 
-
-### Use Case
+## Use Cases
 
 1. **Language Model Training**: Developers can use the texts in orthod-db to train language models specific to Eastern Orthodox Christian literature, enabling AI to understand and generate relevant content.
     
