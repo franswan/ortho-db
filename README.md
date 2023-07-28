@@ -1,5 +1,7 @@
 **ortho-db: An Open Source Database of Eastern Orthodox Christian Texts**
 
+This is a proof of concept. I will likely set up a MySql database and begin developing an API using Next.js. 
+
 ## Overview
 
 ortho-db is an open-source project aimed at creating a comprehensive database of Eastern Orthodox Christian texts. The database will serve as a valuable resource for researchers, scholars, and language models interested in exploring the rich literary and theological heritage of Eastern Orthodoxy. This README provides an outline of the project, considerations for contributors, and the proposed database schema for organizing the content.
