@@ -1,6 +1,6 @@
 **ortho-db: An Open Source Database of Eastern Orthodox Christian Texts**
 
-This is a proof of concept. This README provides a general overview of the project. See the (Wiki)[https://github.com/franswan/ortho-db/wiki] to explore what this project can provide a foundation for. 
+This is a proof of concept. This README provides a general overview of the project. See the [Wiki](https://github.com/franswan/ortho-db/wiki) to explore what this project can provide a foundation for. 
 
 ## Overview
 
