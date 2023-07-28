@@ -1,6 +1,6 @@
 **ortho-db: An Open Source Database of Eastern Orthodox Christian Texts**
 
-This is a proof of concept. I will likely set up a MySql database and begin developing an API using Next.js. 
+This is a proof of concept. I will likely set up a MySql database and begin developing an API using Next.js. This will be very interesting and challenging.... and hopefully very useful.
 
 ## Overview
 
